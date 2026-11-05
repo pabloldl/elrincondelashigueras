@@ -1,0 +1,73 @@
+{
+  "testedAt": "2026-11-05T10:30:52.091Z",
+  "browser": "Chrome headless (Windows)",
+  "results": [
+    {
+      "width": 375,
+      "scrollWidth": 375,
+      "overflow": false,
+      "robots": 1,
+      "menuOpens": true,
+      "menuCloses": true,
+      "buttonVisible": true,
+      "fontLoaded": true,
+      "title": "El Rincón de las Higueras · Alojamiento en El Bosque"
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": false,
+      "robots": 1,
+      "menuOpens": true,
+      "menuCloses": true,
+      "buttonVisible": true,
+      "fontLoaded": true,
+      "title": "El Rincón de las Higueras · Alojamiento en El Bosque"
+    },
+    {
+      "width": 768,
+      "scrollWidth": 753,
+      "overflow": false,
+      "robots": 1,
+      "menuOpens": true,
+      "menuCloses": true,
+      "buttonVisible": false,
+      "fontLoaded": true,
+      "title": "El Rincón de las Higueras · Alojamiento en El Bosque"
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1425,
+      "overflow": false,
+      "robots": 1,
+      "menuOpens": true,
+      "menuCloses": true,
+      "buttonVisible": false,
+      "fontLoaded": true,
+      "title": "El Rincón de las Higueras · Alojamiento en El Bosque"
+    },
+    {
+      "width": 1920,
+      "scrollWidth": 1905,
+      "overflow": false,
+      "robots": 1,
+      "menuOpens": true,
+      "menuCloses": true,
+      "buttonVisible": false,
+      "fontLoaded": true,
+      "title": "El Rincón de las Higueras · Alojamiento en El Bosque"
+    }
+  ],
+  "reducedMotion": {
+    "matches": true,
+    "animation": "none",
+    "hidden": 0
+  },
+  "gallery": {
+    "photos": 7,
+    "allLoaded": true,
+    "viewerOpens": true,
+    "viewerCloses": true,
+    "scrollUnlocked": true
+  }
+}

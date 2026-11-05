@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+.env.*
+!.env.example
+.vscode/
+*.log
+qa/browser*/
+qa/*.png
